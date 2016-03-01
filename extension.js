@@ -51,8 +51,8 @@
       chatLink: "https://rawgit.com/bscBot/source/master/lang/en.json",
       scriptLink: "https://rawgit.com/bscBot/source/master/basicBot.js",
       roomLock: false, // Requires an extension to re-load the script
-      startupCap: 1, // 1-200
-      startupVolume: 0, // 0-100
+      startupCap: 200, // 1-200
+      startupVolume: 15, // 0-100
       startupEmoji: false, // true or false
       autowoot: true,
       autoskip: false,
